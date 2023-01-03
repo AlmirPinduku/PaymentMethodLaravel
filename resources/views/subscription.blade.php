@@ -1,6 +1,6 @@
 @extends('layouts.app')
-     
 @section('content')
+<!-- Per te testuar pagesen shkoni ne web`in https://stripe.com/docs/testing?testing-method=card-numbers merrni nje card. -->
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
